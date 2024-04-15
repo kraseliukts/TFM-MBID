@@ -1,6 +1,7 @@
 Trabajo Fin de Master "Análisis del Comportamiento de Usuarios de Bicicletas Públicas".
 Autor: Tatiana Kraseliuk.
 
+Resume:
 The public bike sharing service has shown an exponential development in recent decades, 
 the service has spread in the territory of more than 90 countries, 
 it is in constant technological development with the aim of providing the best service and experience to users. 
@@ -15,3 +16,9 @@ for the development of future works, in which are described the following steps:
 pre-processing and analysis, determine the factors, including climatic and temporal factors, 
 that have more influence on the user´s behavior, selecting and application of machine learning models of supervised learning
 in order to make the short-term prediction with the best selected model. 
+
+The proyect contains:
+1. Python proyect than includes the data transformation, analysis, visualizations, application of machine learning models and final prediction.
+2. R script with SARIMA analysis of time series.
+3. Final data data.csv after all transformations, data_2024.csv file to make predictions and prediccion_2024.csv file with predicted values.
+4. Survey data about SBP Quito system and Power BI proyect.
